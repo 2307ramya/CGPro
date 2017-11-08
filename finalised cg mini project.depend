@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500648448 source:/home/ramya/Desktop/finalised cg mini project/main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+
